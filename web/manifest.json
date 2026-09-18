@@ -1,6 +1,6 @@
 {
-    "name": "projetoflutter",
-    "short_name": "projetoflutter",
+    "name": "contador_pessoa",
+    "short_name": "contador_pessoa",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
